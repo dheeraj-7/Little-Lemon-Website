@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/438.1151a95f.chunk.css","mappings":"AAAA,WAGE,kBAAmB,CADnB,WAAY,CADZ,UAGF,CAEA,0CACE,WACE,eACF,CACF","sources":["pages/About.css"],"sourcesContent":[".about-pic {\n  width: 100%;\n  height: auto;\n  border-radius: 15px;\n}\n\n@media only screen and (min-width: 1200px) {\n  .about-pic {\n    max-width: 456px\n  }\n}"],"names":[],"sourceRoot":""}
